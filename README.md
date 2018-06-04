@@ -1,6 +1,6 @@
 Typecho Blogging Platform
 =========================
-
+    PHT 版本博客源码，模板博客 https://kexue.fm
 Typecho is a PHP Blogging Platform. Simple and Powerful.
 
 #### Telegram Channel
